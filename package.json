@@ -1,6 +1,6 @@
 {
-    "name": "fca-asuna-remake",
-    "version": "1.0.1",
+    "name": "fca-asuna",
+    "version": "1.0.0",
     "description": "Facebook Chat Api Được Remake Bới NHQ",
     "main": "index.js",
     "scripts": {
@@ -11,12 +11,12 @@
     "author": "Avery, David, Maude, Benjamin, KanzuWakazaki, Asuna",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/asuna2003/fca-asuna-remake/issues"
+        "url": "https://github.com/asuna2003/fca-asuna/issues"
     },
-    "homepage": "https://github.com/asuna2003/fca-asuna-remake#readme",
+    "homepage": "https://github.com/asuna2003/fca-asuna#readme",
     "repository": {
         "type": "git",
-        "url": "git@github.com:asuna2003/fca-asuna-remake.git"
+        "url": "git://github.com/asuna2003/fca-asuna.git"
     },
     "dependencies": {
         "aes-js": "latest",
